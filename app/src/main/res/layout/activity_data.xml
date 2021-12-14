@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".data"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/images"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="school Book"
+        android:id="@+id/book"
+        android:layout_marginTop="5dp"
+        android:layout_margin="5dp"
+        android:textSize="30dp"
+        android:background="#918F8F"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="الشرح"
+        android:background="#918F8F"
+        android:id="@+id/ex"
+        android:textSize="30dp"
+        android:layout_marginTop="15dp"
+        android:layout_margin="5dp"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#918F8F"
+        android:layout_marginTop="10dp"
+        android:layout_margin="5dp"
+        android:text="Exaaams"
+        android:id="@+id/exam"
+        android:textSize="30dp"
+        android:textAlignment="center"/>
+
+
+
+
+
+
+</LinearLayout>

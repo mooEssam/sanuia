@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "19192890406",
+    "firebase_url": "https://testproject-3ba1a.firebaseio.com",
+    "project_id": "testproject-3ba1a",
+    "storage_bucket": "testproject-3ba1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19192890406:android:461a96318ddef39ddb52e7",
+        "android_client_info": {
+          "package_name": "com.example.thanwya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19192890406-gbu39c3odqggpgbd4rcmegfed9fsa767.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thanwya",
+            "certificate_hash": "04998b04b6e4fefb91466f4c4601c0ef55e74553"
+          }
+        },
+        {
+          "client_id": "19192890406-q2jds2pgjegkfl2dg96v5b9ga3nmn3lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj5PxvudElcv1W-rKgd89bzbqNf167J90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19192890406-q2jds2pgjegkfl2dg96v5b9ga3nmn3lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

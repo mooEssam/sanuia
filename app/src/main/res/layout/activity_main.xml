@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_weight="1"
+    tools:context=".MainActivity">
+    />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/araby"
+                android:layout_width="match_parent"
+                android:layout_height="59dp"
+                android:background="#145D8F"
+                android:text="اللغة العربية"
+                android:textAlignment="center"
+                android:textSize="29dp" />
+
+            <TextView
+                android:id="@+id/frensh"
+                android:layout_width="match_parent"
+                android:layout_height="59dp"
+                android:background="#DF1F7FF5"
+                android:text="اللغة الفرنسية"
+                android:textAlignment="center"
+                android:textSize="29dp" />
+
+            <TextView
+                android:id="@+id/germany"
+                android:layout_width="match_parent"
+                android:layout_height="58dp"
+                android:background="#145D8F"
+                android:text="اللغة الالمانية"
+                android:textAlignment="center"
+                android:textSize="29dp" />
+
+            <TextView
+                android:id="@+id/eng"
+                android:layout_width="match_parent"
+                android:layout_height="71dp"
+                android:text="اللغه الانجليزية"
+                android:background="#DF1F7FF5"
+                android:textAlignment="center"
+                android:textSize="29dp" />
+
+            <TextView
+                android:id="@+id/math"
+                android:layout_width="match_parent"
+                android:layout_height="77dp"
+                android:layout_weight="1"
+                android:background="#145D8F"
+                android:text="جبر"
+                android:textAlignment="center"
+                android:textSize="29dp" />
+            <TextView
+                android:id="@+id/tfadl"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:layout_weight="1"
+                android:background="#DF1F7FF5"
+                android:text="تفاضل وتكامل"
+                android:textAlignment="center"
+                android:textSize="29dp" />
+
+            <TextView
+                android:id="@+id/meka"
+                android:layout_width="match_parent"
+                android:layout_height="68dp"
+                android:layout_weight="1"
+                android:background="#145D8F"
+                android:text="ميكانيكا"
+                android:textAlignment="center"
+                android:textSize="29dp" />
+
+            <TextView
+                android:id="@+id/chim"
+                android:layout_width="match_parent"
+                android:layout_height="77dp"
+                android:layout_weight="1"
+                android:background="#DF1F7FF5"
+                android:text="الكيمياء"
+                android:textAlignment="center"
+                android:textSize="29dp" />
+
+            <TextView
+                android:id="@+id/physics"
+                android:layout_width="match_parent"
+                android:layout_height="76dp"
+                android:layout_weight="1"
+                android:background="#145D8F"
+                android:text="الفيزياء"
+                android:textAlignment="center"
+                android:textSize="29dp" />
+
+            <TextView
+                android:id="@+id/jiology"
+                android:layout_width="match_parent"
+                android:layout_height="71dp"
+                android:layout_weight="1"
+                android:background="#DF1F7FF5"
+                android:text="جيولوجيا"
+                android:textAlignment="center"
+                android:textSize="29dp" />
+
+            <TextView
+                android:id="@+id/biology"
+                android:layout_width="match_parent"
+                android:layout_height="68dp"
+                android:layout_weight="1"
+                android:background="#145D8F"
+                android:text="أحياء"
+                android:textAlignment="center"
+                android:textSize="29dp" />
+
+            <TextView
+                android:id="@+id/statics"
+                android:layout_width="match_parent"
+                android:layout_height="67dp"
+                android:layout_weight="1"
+                android:background="#DF1F7FF5"
+                android:text="احصاء"
+                android:textAlignment="center"
+                android:textSize="29dp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</LinearLayout>
